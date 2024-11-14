@@ -2,7 +2,8 @@
 
 - 🔭 Pleiteando uma vaga para desenvolvimento backend
 - 🎓 Graduando em Sistemas de Informação (6º Período)
-- 🌱 Estudando com foco em C# + .NET core / Python + Django/Flask
+- 🌱 Linguagem 1º : C# + .NET core
+- 🌱 Linguagem 2º : Python + Django/Flask
 - 📫 Como me contactar: thiagosbarros_@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
