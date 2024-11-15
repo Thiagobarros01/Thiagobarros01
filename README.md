@@ -1,11 +1,10 @@
 ### Ola! Eu sou o Thiago Barros
 
-- 🔭 Pleiteando uma vaga para desenvolvimento backend
+- 🔭 Buscando uma vaga para desenvolvimento backend
 - 🎓 Graduando em Sistemas de Informação (6º Período)
 - 🌱 Linguagem 1º : C# + .NET core
 - 🌱 Linguagem 2º : Python + Django/Flask
 - 📫 Como me contactar: thiagosbarros_@hotmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
  <a href="https://github.com/Thiagobarros01">
