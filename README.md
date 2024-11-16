@@ -12,8 +12,9 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobarros01&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
+  ## Conhecimento em Linguagens como :
 <div style="display: inline_block"><br>
+  
  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img align="center" alt="Thiago-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
  <img align="center" alt="Thiago-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
