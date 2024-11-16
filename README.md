@@ -6,11 +6,13 @@
 - 📚 Linguagem 2º : <img align="center" alt="Thiago-Python" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> & <img align="center" alt="Thiago-Django" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 - 📫 Como me contactar: thiagosbarros_@hotmail.com
 
-<div align="center">
- <a href="https://github.com/Thiagobarros01">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagobarros01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobarros01&layout=compact&langs_count=7&theme=github_dark"/>
+<div style="text-align: left;">
+  <a href="https://github.com/Thiagobarros01">
+    <img height="180em" src="https://bad-apple-github-readme.vercel.app/api?username=Thiagobarros01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
+    <img height="180em" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Thiagobarros01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
+  </a>
 </div>
+
 
   ## Conhecimento em Linguagens como :
 <div style="display: inline_block"><br>
@@ -37,5 +39,9 @@
  <a href="https://instagram.com/_thiagosbarros?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
  <a href="https://www.linkedin.com/in/thiago-barros-ba8b9a20b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
  </div>
+
+ <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" style="width: 100%; height: auto; object-fit: cover;">
+
+ 
