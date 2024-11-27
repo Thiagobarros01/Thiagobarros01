@@ -1,4 +1,4 @@
-### Ola! Eu sou o Thiago Barros
+### Meu nome é Thiago 
 
 - 🔭 Buscando uma vaga para desenvolvimento backend
 - 🎓 Graduando em Sistemas de Informação (6º Período)
