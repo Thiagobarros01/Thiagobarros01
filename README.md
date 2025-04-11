@@ -1,9 +1,12 @@
 ### Meu nome é Thiago 
 
 - 🔭 Buscando uma vaga para desenvolvimento backend
-- 🎓 Graduando em Sistemas de Informação (6º Período)
-- 📚 Linguagem 1º : <img align="center" alt="Thiago-C#" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> & <img align="center" alt="Thiago-.NET" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-- 📚 Linguagem 2º : <img align="center" alt="Thiago-Python" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> & <img align="center" alt="Thiago-Django" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+- 🎓 Graduando em Sistemas de Informação (7º Período)
+-  📚 Linguagem 1º : <img align="center" alt="Thiago-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ & <img align="center" alt="Thiago-Spring" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+- 📚 Linguagem 2º : <img align="center" alt="Thiago-C#" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> & <img align="center" alt="Thiago-.NET" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
+
 - 📫 Como me contactar: thiagosbarros_@hotmail.com
 
 <div style="text-align: left;">
@@ -28,6 +31,7 @@
  <img align="center" alt="Thiago-Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
  <img align="center" alt="Thiago-Linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
  <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ <img align="center" alt="Thiago-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
  <img align="center" alt="Thiago-Php" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
  
  
