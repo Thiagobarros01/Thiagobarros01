@@ -1,6 +1,5 @@
 ### Meu nome é Thiago 
 
-- 🔭 Buscando uma vaga para desenvolvimento backend
 - 🎓 Graduando em Sistemas de Informação (7º Período)
 -  📚 Linguagem 1º : <img align="center" alt="Thiago-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
  & <img align="center" alt="Thiago-Spring" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
